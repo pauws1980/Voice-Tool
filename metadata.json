@@ -1,0 +1,5 @@
+{
+  "name": "Robert Tech Tool Voice",
+  "description": "An AI-powered app that converts text-based story scripts into natural-sounding audio. Users can input dialogue, then assign voices to each speaker using Google's voice models for seamless text-to-speech conversion.",
+  "requestFramePermissions": []
+}
